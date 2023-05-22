@@ -1,2 +1,5 @@
-# fullstackopen_project2023_md
-markdown repo for fullstackopen project
+# Timekeeping
+
+|  Day   | Time  | What was done ?
+| :----:|:-----| :-----| 
+| 22.5. |  5  | Setting up the project structure for Client and Server & Developed Navigation Bar
